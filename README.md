@@ -16,7 +16,7 @@ This repository contains a **Python-based Jupyter Notebook** explaining the fund
 The repository includes:
 - A Jupyter Notebook (`.ipynb`) implementing ANN concepts with practical examples.
 - Detailed explanations with illustrative diagrams and code snippets.
-- The notebook is in Spanish, however an English version is on the works. 
+- The notebook is in Spanish; however, an English version is in the works. 
 
 ---
 
@@ -33,7 +33,7 @@ Key topics covered:
 - **Forward propagation mechanism**
 - **Matrix operations for optimization**
 - **Activation functions** (e.g., sigmoid function)
-- **Gradient Descent*
+- **Gradient Descent**
 - **Numerical Gradient Testing**
 - **Training using Quasi-Newton (BFGS) optimization method**
 - **Overfitting**
